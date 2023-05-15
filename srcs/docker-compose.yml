@@ -1,0 +1,15 @@
+version:
+
+services:
+  WordPress:
+
+  MariaDB:
+
+  NGINX:
+
+
+network:
+
+volumes:
+  WP_databse:
+  WP_web_files:
